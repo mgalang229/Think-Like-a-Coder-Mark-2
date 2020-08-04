@@ -2,6 +2,9 @@
 
 using namespace std;
 
+// Galang, Mark Jason T.
+// 201910574
+
 void test_case() {
 	int spn[15], r, c, spc;
 	cin >> r >> c >> spc;
